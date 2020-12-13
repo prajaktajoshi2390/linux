@@ -837,6 +837,8 @@ void __init __weak arch_call_rest_init(void)
 
 asmlinkage __visible void __init __no_sanitize_address start_kernel(void)
 {
+	
+pr_info("I am in  THE LINUX KERNEL!!!...........................................................................................\n");
 	char *command_line;
 	char *after_dashes;
 
