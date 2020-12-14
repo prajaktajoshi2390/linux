@@ -89,6 +89,25 @@ As part of assignment, first complete the setup as done in Assignment 2, the ste
 - Go to Outer VM Terminal and execute dmesg, you will see the logs with exit number and exit count
 - Commit and Push the changes to the Git Repo
 
+Please find below the observation for different scenarios:
+1. Register Information for Exit Number 1 and Exit Number 7
+![Exit 1 and 7](https://github.com/prajaktajoshi2390/linux/blob/master/screenshots/Picture1.png)
+
+2. Number of Exits for Exit 1 and Exit 7
+![Exit 1 and 7](https://github.com/prajaktajoshi2390/linux/blob/master/screenshots/Picture2.png)
+
+3. Register Information for Exit Number 35, 38 and 69
+![Exit 1 and 7](https://github.com/prajaktajoshi2390/linux/blob/master/screenshots/Picture3.png)
+
+4. Number of Exits for Exit 35, 28 and 69
+![Exit 1 and 7](https://github.com/prajaktajoshi2390/linux/blob/master/screenshots/Picture4.png)
+
+5. Register Information for Exit Number 3 and 4
+![Exit 1 and 7](https://github.com/prajaktajoshi2390/linux/blob/master/screenshots/Picture5.png)
+
+6. Number of Exits for Exit 3 and 4
+![Exit 1 and 7](https://github.com/prajaktajoshi2390/linux/blob/master/screenshots/Picture6.png)
+
 
 Q3: Comment on the frequency of exits – does the number of exits increase at a stable rate? Or are there more exits performed during certain VM operations? Approximately how many exits does a full VM boot entail?
 Find below the observation:
